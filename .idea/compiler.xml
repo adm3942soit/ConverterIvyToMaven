@@ -24,10 +24,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="comverterFromIvyToMaven" />
+        <module name="converterFromIvyToMaven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="comverterFromIvyToMaven" target="1.5" />
+      <module name="converterFromIvyToMaven" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

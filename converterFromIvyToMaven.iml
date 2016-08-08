@@ -12,14 +12,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="GlassFish 4.0.0" level="application_server_libraries" />
-    <orderEntry type="module-library">
-      <library name="Maven: org.apache.ivy:ivy:2.3.0">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/ivy-2.3.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="Maven: org.apache.ivy:ivy:2.4.0" level="project" />
   </component>
 </module>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/comverterFromIvyToMaven.iml" filepath="$PROJECT_DIR$/comverterFromIvyToMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converterFromIvyToMaven.iml" filepath="$PROJECT_DIR$/converterFromIvyToMaven.iml" />
     </modules>
   </component>
 </project>
